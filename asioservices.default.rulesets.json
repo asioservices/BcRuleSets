@@ -1,0 +1,36 @@
+{
+  "name": "asioservices.default",
+  "description": "Default ruleset for Asio Services",
+  "rules": [
+    {
+      "id": "AA0072",
+      "action": "None",
+      "justification": "Useless."
+    },
+    {
+      "id": "AA0215",
+      "action": "Hidden",
+      "justification": "Useless"
+    },
+    {
+      "id": "AW0006",
+      "action": "Warning",
+      "justification": "info as warning"
+    },
+    {
+      "id": "AW0011",
+      "action": "Warning",
+      "justification": "info as warning"
+    },
+    {
+      "id": "AA0137",
+      "action": "Error",
+      "justification": "Should be an error not a warning"
+    },
+    {
+      "id": "AA0211",
+      "action": "Error",
+      "justification": "Should be an error not a warning"
+    }
+  ]
+}

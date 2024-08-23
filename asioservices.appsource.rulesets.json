@@ -1,0 +1,11 @@
+{
+  "name": "asioservices.appsource",
+  "description": "AppSource rulesets for Asio Services",
+    "includedRuleSets": [
+        {
+            "action": "Default",
+            "path": "https://raw.githubusercontent.com/asioservices/BcRuleSets/main/asioservices.default.rulesets.json"
+        }
+    ],
+    "rules": []
+}
