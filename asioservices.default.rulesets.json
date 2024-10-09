@@ -31,6 +31,11 @@
       "id": "AA0211",
       "action": "Error",
       "justification": "Should be an error not a warning"
+    },
+    {
+      "id": "LC0068",
+      "action": "None",
+      "justification": "Could be useful, but not in its current state."
     }
   ]
 }
